@@ -1,6 +1,6 @@
 # go-tasks-api
 
-Flutter client + Go REST API，本地可跑通 CRUD 子集（list / create / complete）。
+Go REST API paired with a Flutter client — run locally with list, create, and complete.
 
 **Pair:** [flutter-task-app](https://github.com/wmsing/flutter-task-app) — Flutter client for this API.
 
