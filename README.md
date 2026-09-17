@@ -2,7 +2,7 @@
 
 Flutter client + Go REST API，本地可跑通 CRUD 子集（list / create / complete）。
 
-**Pair:** [flutter-task-app](https://github.com/YOUR_USER/flutter-task-app) — Flutter client for this API.
+**Pair:** [flutter-task-app](https://github.com/wmsing/flutter-task-app) — Flutter client for this API.
 
 Portfolio sample, not production.
 
